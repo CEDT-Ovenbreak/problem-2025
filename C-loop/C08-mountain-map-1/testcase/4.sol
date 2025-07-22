@@ -1,0 +1,12 @@
+           /\           
+          /AA\          
+         /AAAA\         
+        /AAAAAA\        
+       /AAAAAAAA\       
+      /AAAAAAAAAA\      
+     /AAAAAAAAAAAA\     
+    /AAAAAAAAAAAAAA\    
+   /AAAAAAAAAAAAAAAA\   
+  /AAAAAAAAAAAAAAAAAA\  
+ /AAAAAAAAAAAAAAAAAAAA\ 
+/AAAAAAAAAAAAAAAAAAAAAA\
