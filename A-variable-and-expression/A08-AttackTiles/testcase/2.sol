@@ -1,0 +1,1 @@
+freikugel has 220 attackable tiles.

@@ -1,0 +1,1 @@
+12 hr 27 min until alarm rings.

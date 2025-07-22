@@ -1,0 +1,1 @@
+sword has 80 attackable tiles.

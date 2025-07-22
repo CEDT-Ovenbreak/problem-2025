@@ -1,0 +1,1 @@
+artilery has 272 attackable tiles.

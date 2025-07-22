@@ -1,0 +1,1 @@
+katana has 184 attackable tiles.

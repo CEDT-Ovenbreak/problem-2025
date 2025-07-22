@@ -1,0 +1,1 @@
+ajarnnattee has 19799999820000000 attackable tiles.

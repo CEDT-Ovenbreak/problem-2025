@@ -1,0 +1,1 @@
+bow has 17486981681936436 attackable tiles.

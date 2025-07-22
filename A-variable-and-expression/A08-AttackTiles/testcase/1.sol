@@ -1,0 +1,1 @@
+tomahawk has 24 attackable tiles.

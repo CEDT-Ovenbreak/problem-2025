@@ -1,0 +1,1 @@
+5 hr 50 min until alarm rings.
