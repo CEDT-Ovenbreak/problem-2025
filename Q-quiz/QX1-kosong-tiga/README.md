@@ -1,5 +1,6 @@
 # QX1 - Kosong Tiga
 This problem is make a testcase by manual methods. You can see details of my testcase at this `README.md` files.
+(เพิ่มเติม: ข้อนี้เป็น Quiz เกรียนที่เป็นข้อแปลภาษามาก่อน)
 
 ## Testcase Details
 Testcase files with output there are on `testcase` folder
